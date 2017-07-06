@@ -2,6 +2,7 @@ package com.zhaojun.domain;
 
 /**
  * Created by hasee on 2017/7/1.
+ * 返回结果封装对象
  */
 public class Result<T> {
 
