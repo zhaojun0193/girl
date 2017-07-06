@@ -1,0 +1,6 @@
+server:
+  port: 80
+  context-path: /girl
+girl:
+  name: Alisa
+  age: 18
